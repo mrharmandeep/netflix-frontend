@@ -3,7 +3,7 @@ import './JumboImage.css';
 
 function JumboImage({...restProps}) {
   return (
-    <img className='jumbo-image' alt='' {...restProps}/>
+    <img className='jumbo-image' alt='jumbo' {...restProps}/>
   )
 }
 

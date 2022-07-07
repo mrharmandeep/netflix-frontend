@@ -3,7 +3,7 @@ import './FooterLink.css';
 
 function FooterLink({children}, ...restProps) {
   return (
-    <a href='#' className='footer-link' {...restProps}>
+    <a className='footer-link' {...restProps}>
         {children}
     </a>
   )

@@ -3,7 +3,7 @@ import './SignLink.css';
 
 function SignLink({children, ...restProps}) {
   return (
-    <a className='sign-link' {...restProps}>
+    <a  className='sign-link' {...restProps}>
         {children}
     </a>
   )
