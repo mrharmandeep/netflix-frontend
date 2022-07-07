@@ -1,0 +1,7 @@
+.navbar-home{
+    display: flex;
+    max-width: 1800px;
+    width: 100%;
+    justify-content:space-between;
+    padding: 20px 20px;
+}

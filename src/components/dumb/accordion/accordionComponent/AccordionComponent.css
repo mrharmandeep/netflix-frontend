@@ -1,0 +1,30 @@
+.accordion-component{
+    background-color: black;
+    padding-top: 100px;
+}
+.accordion-heading{
+    color: white;
+    font-size: 50px ;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.accordion-wrapper{
+    max-width:814px;
+    margin: auto;
+    padding: 30px 45px;
+}
+.btm-sec{
+    max-width: 1000px;
+    padding-bottom: 40px;
+}
+.bottom-text{
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 80px;
+
+}

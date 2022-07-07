@@ -1,0 +1,19 @@
+.feature-title-home{
+    color:white;
+    font-size: 50px;
+    font-weight: 700;
+    max-width:640px;
+    margin: auto;
+}
+.txt1{
+    color: white;
+    font-size: 1.625rem;
+    font-weight:400;
+    padding-top: 10px;
+}
+.txt2{
+    color: white;
+    font-size: 1.2rem;
+    font-weight:400;
+    padding-top: 30px;
+}

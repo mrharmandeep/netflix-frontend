@@ -1,0 +1,10 @@
+.sign-input{
+    color:white;
+    border:0;
+    height: 34px;
+    border-radius:4px;
+    line-height:34px;
+    padding:5px 10px;
+    margin-bottom:20px;
+    width: 294px;
+}
